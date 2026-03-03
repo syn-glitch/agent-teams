@@ -4,3 +4,6 @@
 [submodule "Creator_Agent_teams"]
 	path = Creator_Agent_teams
 	url = https://github.com/syn-glitch/creator-agent-teams.git
+[submodule "Performance_Agent_teams"]
+	path = Performance_Agent_teams
+	url = https://github.com/syn-glitch/performance-agent-teams.git
