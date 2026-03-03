@@ -1,0 +1,6 @@
+[submodule "GD_Agent_teams"]
+	path = GD_Agent_teams
+	url = https://github.com/syn-glitch/gd-agent-teams.git
+[submodule "Creator_Agent_teams"]
+	path = Creator_Agent_teams
+	url = https://github.com/syn-glitch/creator-agent-teams.git
